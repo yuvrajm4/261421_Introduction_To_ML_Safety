@@ -11,15 +11,15 @@ The work focuses on practical and theoretical ML safety topics such as operation
 ├── README.md
 ├── exercise_solutions/
 │   ├── exercise_01/
-│   │   └── README.md
+│   │   
 │   ├── exercise_02/
-│   │   └── README.md
+│   │   
 │   ├── exercise_03/
-│   │   └── README.md
+│   │   
 │   ├── exercise_04/
-│   │   └── README.md
+│   │   
 │   └── exercise_05/
-│       └── README.md
+│       
 ```
 
 ## Exercises
